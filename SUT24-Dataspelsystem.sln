@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUT24-Dataspelsystem", "SUT24-Dataspelsystem\SUT24-Dataspelsystem.csproj", "{9B437124-58B2-42EA-A1DC-9FD49E5585C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B437124-58B2-42EA-A1DC-9FD49E5585C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B437124-58B2-42EA-A1DC-9FD49E5585C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B437124-58B2-42EA-A1DC-9FD49E5585C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B437124-58B2-42EA-A1DC-9FD49E5585C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6440DC-46A3-424A-A52E-316121791EB0}
+	EndGlobalSection
+EndGlobal
